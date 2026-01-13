@@ -1,6 +1,5 @@
 # Credit Risk Scoring & Dashboard
-
-**Author:** Or Ben‑Haim  
+ 
 **Stack:** Python · PyTorch · Scikit‑learn · Pandas · Tableau
 
 ## Overview
@@ -36,5 +35,5 @@ The model is a **fully‑connected neural network (PyTorch)** for multi‑class 
 ## Data Source
 Kaggle — **Credit Risk Dataset** by laotse: https://www.kaggle.com/datasets/laotse/credit-risk-dataset
 
-## License
-MIT © 2025 
+
+
